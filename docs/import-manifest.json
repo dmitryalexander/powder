@@ -1,0 +1,1344 @@
+{
+  "events": {
+    "grapple.fire": {
+      "files": [
+        "grapple_fire_2ch_v1_01.wav",
+        "grapple_fire_2ch_v1_02.wav",
+        "grapple_fire_2ch_v1_03.wav",
+        "grapple_fire_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.traverse": {
+      "files": [
+        "grapple_traverse_2ch_v1_01.wav",
+        "grapple_traverse_2ch_v1_02.wav",
+        "grapple_traverse_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "grapple.retract": {
+      "files": [
+        "grapple_retract_2ch_v1_01.wav",
+        "grapple_retract_2ch_v1_02.wav"
+      ],
+      "loop": true
+    },
+    "grapple.reset": {
+      "files": [
+        "grapple_reset_2ch_v1_01.wav"
+      ],
+      "loop": false
+    },
+    "slide.boost": {
+      "files": [
+        "jumpjet_jetbody_st_v1_01.wav",
+        "jumpjet_jetbody_st_v1_02.wav",
+        "jumpjet_jetbody_st_v1_03.wav",
+        "jumpjet_jetbody_st_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.concrete": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.concrete": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.concrete": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.dirt": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.dirt": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.dirt": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.grass": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.grass": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.grass": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.mud": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.mud": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.mud": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.sand": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.sand": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.sand": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.solidmetal": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.solidmetal": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.solidmetal": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.water": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.water": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.water": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "slide.start.wood": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_03.wav"
+      ],
+      "loop": true
+    },
+    "slide.stop.wood": {
+      "files": [
+        "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "slide.bump.wood": {
+      "files": [
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+        "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.default": {
+      "files": [
+        "imp_grapple_default_2ch_v1_01.wav",
+        "imp_grapple_default_2ch_v1_02.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.default": {
+      "files": [
+        "extract_grapple_default_2ch_v1_01.wav",
+        "extract_grapple_default_2ch_v1_02.wav",
+        "extract_grapple_default_2ch_v1_03.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.concrete": {
+      "files": [
+        "imp_grapple_concrete_2ch_v1_01.wav",
+        "imp_grapple_concrete_2ch_v1_02.wav",
+        "imp_grapple_concrete_2ch_v1_03.wav",
+        "imp_grapple_concrete_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.concrete": {
+      "files": [
+        "extract_grapple_concrete_2ch_v1_01.wav",
+        "extract_grapple_concrete_2ch_v1_02.wav",
+        "extract_grapple_concrete_2ch_v1_03.wav",
+        "extract_grapple_concrete_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.dirt": {
+      "files": [
+        "imp_grapple_dirt_2ch_v1_01.wav",
+        "imp_grapple_dirt_2ch_v1_02.wav",
+        "imp_grapple_dirt_2ch_v1_03.wav",
+        "imp_grapple_dirt_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.dirt": {
+      "files": [
+        "extract_grapple_dirt_2ch_v1_01.wav",
+        "extract_grapple_dirt_2ch_v1_02.wav",
+        "extract_grapple_dirt_2ch_v1_03.wav",
+        "extract_grapple_dirt_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.mud": {
+      "files": [
+        "imp_grapple_mud_2ch_v1_01.wav",
+        "imp_grapple_mud_2ch_v1_02.wav",
+        "imp_grapple_mud_2ch_v1_03.wav",
+        "imp_grapple_mud_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.mud": {
+      "files": [
+        "extract_grapple_mud_2ch_v1_01.wav",
+        "extract_grapple_mud_2ch_v1_02.wav",
+        "extract_grapple_mud_2ch_v1_03.wav",
+        "extract_grapple_mud_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.sand": {
+      "files": [
+        "imp_grapple_sand_2ch_v1_01.wav",
+        "imp_grapple_sand_2ch_v1_02.wav",
+        "imp_grapple_sand_2ch_v1_03.wav",
+        "imp_grapple_sand_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.sand": {
+      "files": [
+        "extract_grapple_sand_2ch_v1_01.wav",
+        "extract_grapple_sand_2ch_v1_02.wav",
+        "extract_grapple_sand_2ch_v1_03.wav",
+        "extract_grapple_sand_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.solidmetal": {
+      "files": [
+        "imp_grapple_solidmetal_2ch_v1_01.wav",
+        "imp_grapple_solidmetal_2ch_v1_02.wav",
+        "imp_grapple_solidmetal_2ch_v1_03.wav",
+        "imp_grapple_solidmetal_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.solidmetal": {
+      "files": [
+        "extract_grapple_solidmetal_2ch_v1_01.wav",
+        "extract_grapple_solidmetal_2ch_v1_02.wav",
+        "extract_grapple_solidmetal_2ch_v1_03.wav",
+        "extract_grapple_solidmetal_2ch_v1_04.wav"
+      ],
+      "loop": false
+    },
+    "grapple.impact.wood": {
+      "files": [
+        "imp_grapple_wood_2ch_v1_01.wav",
+        "imp_grapple_wood_2ch_v1_02.wav",
+        "imp_grapple_wood_2ch_v1_03.wav",
+        "imp_grapple_wood_2ch_v1_05.wav"
+      ],
+      "loop": false
+    },
+    "grapple.extract.wood": {
+      "files": [
+        "extract_grapple_wood_2ch_v1_01.wav",
+        "extract_grapple_wood_2ch_v1_02.wav",
+        "extract_grapple_wood_2ch_v1_03.wav"
+      ],
+      "loop": false
+    }
+  },
+  "files": [
+    {
+      "file": "extract_grapple_concrete_2ch_v1_01.wav",
+      "source": "extract_grapple_concrete_2ch_v1_01.wav",
+      "seconds": 1.5673469387755101,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "efe454fc2c0029b77384e0e48f5d27a20719dbc75fde94b4da96e36beb9999b9"
+    },
+    {
+      "file": "extract_grapple_concrete_2ch_v1_02.wav",
+      "source": "extract_grapple_concrete_2ch_v1_02.wav",
+      "seconds": 1.08843537414966,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "b3010806d30b8eed5a86feb14a3d1a81c2da621118423c49f63ad71180cbcf06"
+    },
+    {
+      "file": "extract_grapple_concrete_2ch_v1_03.wav",
+      "source": "extract_grapple_concrete_2ch_v1_03.wav",
+      "seconds": 1.0013605442176872,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "f2c419a298141b3e213c37c7a711281dc25547d622d9bf20511a93cdddc0cc16"
+    },
+    {
+      "file": "extract_grapple_concrete_2ch_v1_04.wav",
+      "source": "extract_grapple_concrete_2ch_v1_04.wav",
+      "seconds": 1.5238095238095237,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "03be4cfa53a964aacbde58155ccfa53ea4478073f363714de132ffee3d01887a"
+    },
+    {
+      "file": "extract_grapple_default_2ch_v1_01.wav",
+      "source": "extract_grapple_default_2ch_v1_01.wav",
+      "seconds": 0.43537414965986393,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "f5ad174fd2ea14225ea87d9eb8bc7604f528a754a8516ef8f37ab5951725c2fa"
+    },
+    {
+      "file": "extract_grapple_default_2ch_v1_02.wav",
+      "source": "extract_grapple_default_2ch_v1_02.wav",
+      "seconds": 0.39183673469387753,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "fb91669651c2ac8b05abd683612da292bc70c3b7331433e86986abfba78f99d1"
+    },
+    {
+      "file": "extract_grapple_default_2ch_v1_03.wav",
+      "source": "extract_grapple_default_2ch_v1_03.wav",
+      "seconds": 0.39183673469387753,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "a134a4d1dd698fcc40593a316f9988a96cf87ec37118b1048c4dbcbf970d0364"
+    },
+    {
+      "file": "extract_grapple_dirt_2ch_v1_01.wav",
+      "source": "extract_grapple_dirt_2ch_v1_01.wav",
+      "seconds": 1.5238095238095237,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "89e3e2a2afc9c1d50ec2bdc8d08408c3e9a845be5a93943f6fc3e3c2e0626bfc"
+    },
+    {
+      "file": "extract_grapple_dirt_2ch_v1_02.wav",
+      "source": "extract_grapple_dirt_2ch_v1_02.wav",
+      "seconds": 1.5673469387755101,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "0a16af064c409610d015c7ddf5d71f0c412af9076c90b8071f5abacec79fb46e"
+    },
+    {
+      "file": "extract_grapple_dirt_2ch_v1_03.wav",
+      "source": "extract_grapple_dirt_2ch_v1_03.wav",
+      "seconds": 1.0013605442176872,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "a73dd197fc5693b071bb94638da16809595a338ad031962ecdbe1e925ce8dbbb"
+    },
+    {
+      "file": "extract_grapple_dirt_2ch_v1_04.wav",
+      "source": "extract_grapple_dirt_2ch_v1_04.wav",
+      "seconds": 1.5673469387755101,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "c65d9474113668682d252c5ad78f30f093953c78d23db3606c7726ffc343c36f"
+    },
+    {
+      "file": "extract_grapple_mud_2ch_v1_01.wav",
+      "source": "extract_grapple_mud_2ch_v1_01.wav",
+      "seconds": 0.6095238095238096,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "5fb07dc5d29896392cb20a64635e55d46fdb31c85ded8869c9947d92ee8f3dd0"
+    },
+    {
+      "file": "extract_grapple_mud_2ch_v1_02.wav",
+      "source": "extract_grapple_mud_2ch_v1_02.wav",
+      "seconds": 0.5224489795918368,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "63c3a6464ce7cf6494888874fbc5c2004517cf48ccf5918ebcdc43eb401ef64d"
+    },
+    {
+      "file": "extract_grapple_mud_2ch_v1_03.wav",
+      "source": "extract_grapple_mud_2ch_v1_03.wav",
+      "seconds": 0.6095238095238096,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "7201749cc5e147bd01fce7765095057f0c2bd1c67ff0388b9f388d8db1f9256d"
+    },
+    {
+      "file": "extract_grapple_mud_2ch_v1_04.wav",
+      "source": "extract_grapple_mud_2ch_v1_04.wav",
+      "seconds": 0.6530612244897959,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "1751e4559cb6cb2da6250a131b8d4785e77f8b06e2fcfd1fedf69054fbe29fa5"
+    },
+    {
+      "file": "extract_grapple_sand_2ch_v1_01.wav",
+      "source": "extract_grapple_sand_2ch_v1_01.wav",
+      "seconds": 1.2190476190476192,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "d3f47ac6ecda8f43b182b193d88ce9319ea4e7677dc99846761a422a2b356c60"
+    },
+    {
+      "file": "extract_grapple_sand_2ch_v1_02.wav",
+      "source": "extract_grapple_sand_2ch_v1_02.wav",
+      "seconds": 1.1319727891156464,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "72decb86f3d5687e8df4dbce461862f9458d4daf5a34a577f7bc5d6cbeeb20ee"
+    },
+    {
+      "file": "extract_grapple_sand_2ch_v1_03.wav",
+      "source": "extract_grapple_sand_2ch_v1_03.wav",
+      "seconds": 1.2625850340136053,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "71dabba3e19093f77202fef1d746d9ad54e26f42bf95df053bd472c0717a65bd"
+    },
+    {
+      "file": "extract_grapple_sand_2ch_v1_04.wav",
+      "source": "extract_grapple_sand_2ch_v1_04.wav",
+      "seconds": 1.4802721088435373,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "c8a784f090685a0379d44caf93679f256a5c433372ea4db041de09efdb848b17"
+    },
+    {
+      "file": "extract_grapple_solidmetal_2ch_v1_01.wav",
+      "source": "extract_grapple_solidmetal_2ch_v1_01.wav",
+      "seconds": 1.08843537414966,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "698b21141111e5de8c6a8382be7af72c929426b685a0ffd408bf06f850456c3e"
+    },
+    {
+      "file": "extract_grapple_solidmetal_2ch_v1_02.wav",
+      "source": "extract_grapple_solidmetal_2ch_v1_02.wav",
+      "seconds": 0.8707482993197279,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "63572b20170cbe53556d7dbdfb4928d52d9dfd30959f80e79b8f7b5d9b98a6f4"
+    },
+    {
+      "file": "extract_grapple_solidmetal_2ch_v1_03.wav",
+      "source": "extract_grapple_solidmetal_2ch_v1_03.wav",
+      "seconds": 0.7836734693877551,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "4d302b80476da60b30b61d70bf331af55032131bee1a6f979542da0b1ecc300a"
+    },
+    {
+      "file": "extract_grapple_solidmetal_2ch_v1_04.wav",
+      "source": "extract_grapple_solidmetal_2ch_v1_04.wav",
+      "seconds": 0.9578231292517007,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "eeb334587c76ab015c72e00331f6986ffbad7def0b56f51a61dd95705db7719d"
+    },
+    {
+      "file": "extract_grapple_wood_2ch_v1_01.wav",
+      "source": "extract_grapple_wood_2ch_v1_01.wav",
+      "seconds": 0.9578231292517007,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "5d715d71cf5b08d2e10cd13fb1e3308bc0f294d9992ab335f9b17bf4ec696811"
+    },
+    {
+      "file": "extract_grapple_wood_2ch_v1_02.wav",
+      "source": "extract_grapple_wood_2ch_v1_02.wav",
+      "seconds": 0.7836734693877551,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "06e7249fed97f204ba11b39708389497ae358223b1c4ce537f2b0329c2b1ee1c"
+    },
+    {
+      "file": "extract_grapple_wood_2ch_v1_03.wav",
+      "source": "extract_grapple_wood_2ch_v1_03.wav",
+      "seconds": 0.6965986394557823,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "1df5c48c86bc20c13934008ed57779525841de495d9007607c0530d8a6a9aaf9"
+    },
+    {
+      "file": "grapple_fire_2ch_v1_01.wav",
+      "source": "grapple_fire_2ch_v1_01.wav",
+      "seconds": 0.6095238095238096,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "f92a806a8dd1a082bbfa5bc26aae0d8d58a1d27af2ba50471c0bd31003ab0161"
+    },
+    {
+      "file": "grapple_fire_2ch_v1_02.wav",
+      "source": "grapple_fire_2ch_v1_02.wav",
+      "seconds": 0.6530612244897959,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "6e1ea6f06efe31c74bc31c8db97dc41132b70adbe54084c38558791d5e8e9708"
+    },
+    {
+      "file": "grapple_fire_2ch_v1_03.wav",
+      "source": "grapple_fire_2ch_v1_03.wav",
+      "seconds": 0.6530612244897959,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "31ee9d2bf23e0d7794295a9d7e6e2137aeb61aa1fe7c9057438991ce86929a9d"
+    },
+    {
+      "file": "grapple_fire_2ch_v1_04.wav",
+      "source": "grapple_fire_2ch_v1_04.wav",
+      "seconds": 0.5659863945578232,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "b59b64dcb67768a1c7e3c5f2ff983b88dd4d0f1b672dcbd833fcea624409a515"
+    },
+    {
+      "file": "grapple_reset_2ch_v1_01.wav",
+      "source": "grapple_reset_2ch_v1_01.wav",
+      "seconds": 0.3047619047619048,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "eb39834b2b90b99abf87a68eead3664af8f3bd7054d937e131da41c6a487617a"
+    },
+    {
+      "file": "grapple_retract_2ch_v1_01.wav",
+      "source": "grapple_retract_2ch_v1_01.wav",
+      "seconds": 0.47891156462585033,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "324690577ff539cb906fe15b2eebbaa5e41e1530d0393924ca326f5a3ceab63b"
+    },
+    {
+      "file": "grapple_retract_2ch_v1_02.wav",
+      "source": "grapple_retract_2ch_v1_02.wav",
+      "seconds": 0.5224489795918368,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "52ee2d7ca64f738ffcf4897d538719adb786ff794daf98c754619e83f909d6c9"
+    },
+    {
+      "file": "grapple_traverse_2ch_v1_01.wav",
+      "source": "grapple_traverse_2ch_v1_01.wav",
+      "seconds": 2.24,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "f130831ef4e605b2c1f869ba19812a31ce2a32af5628d13cd77eac601a734f58"
+    },
+    {
+      "file": "grapple_traverse_2ch_v1_02.wav",
+      "source": "grapple_traverse_2ch_v1_02.wav",
+      "seconds": 2.2,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "4f90fe264270132349067b5456df3cf19e103819c30fd8b25ff9572d4311eef2"
+    },
+    {
+      "file": "grapple_traverse_2ch_v1_03.wav",
+      "source": "grapple_traverse_2ch_v1_03.wav",
+      "seconds": 2.32,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "2ce7423d9b514ed98bca7825e1e62e0e1c3249f8314c4b1b7d7a21d0672a13c9"
+    },
+    {
+      "file": "imp_grapple_concrete_2ch_v1_01.wav",
+      "source": "imp_grapple_concrete_2ch_v1_01.wav",
+      "seconds": 0.8272108843537415,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "6ae4b7a1294b751272fb159e2c6b21c785e3a60422f963e2630baf1704d59c20"
+    },
+    {
+      "file": "imp_grapple_concrete_2ch_v1_02.wav",
+      "source": "imp_grapple_concrete_2ch_v1_02.wav",
+      "seconds": 1.0448979591836736,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "44c625144b801e7c94dbb56387b0188e6064c5daf0a6324e5d8b5361253a20a8"
+    },
+    {
+      "file": "imp_grapple_concrete_2ch_v1_03.wav",
+      "source": "imp_grapple_concrete_2ch_v1_03.wav",
+      "seconds": 1.3931972789115645,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "50f9e33e08c9135c48fed96cf1da11b76d51e7e930c66b7f79df914e3485cefc"
+    },
+    {
+      "file": "imp_grapple_concrete_2ch_v1_04.wav",
+      "source": "imp_grapple_concrete_2ch_v1_04.wav",
+      "seconds": 1.2625850340136053,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "a588b8a806d3a716ff2d01f381ae04600360a3066a5fbea87ce3e02ccc4fe355"
+    },
+    {
+      "file": "imp_grapple_default_2ch_v1_01.wav",
+      "source": "imp_grapple_default_2ch_v1_01.wav",
+      "seconds": 0.6095238095238096,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "60f205467dff8f03d96c05ba0418f29036c2e1684e1c3ef090586ad81d4f4f74"
+    },
+    {
+      "file": "imp_grapple_default_2ch_v1_02.wav",
+      "source": "imp_grapple_default_2ch_v1_02.wav",
+      "seconds": 0.5224489795918368,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "5272cad7cdfee2e244812b4518974521872632980e4daf4e3cc8687bd036ec1d"
+    },
+    {
+      "file": "imp_grapple_dirt_2ch_v1_01.wav",
+      "source": "imp_grapple_dirt_2ch_v1_01.wav",
+      "seconds": 1.3496598639455781,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "3d52410946e96f1b7f1812c39186c08a3799995a9229f53def059651cf293ca6"
+    },
+    {
+      "file": "imp_grapple_dirt_2ch_v1_02.wav",
+      "source": "imp_grapple_dirt_2ch_v1_02.wav",
+      "seconds": 1.2190476190476192,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "7d8797079edded69b715d3aba2788e3a4f796640775e548b7abec8659585f85c"
+    },
+    {
+      "file": "imp_grapple_dirt_2ch_v1_03.wav",
+      "source": "imp_grapple_dirt_2ch_v1_03.wav",
+      "seconds": 1.0013605442176872,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "f1f4ae1a8ad82b746cd00f23b58a7103d7ce1442da5dc4b80cb2eedd6bb77e82"
+    },
+    {
+      "file": "imp_grapple_dirt_2ch_v1_04.wav",
+      "source": "imp_grapple_dirt_2ch_v1_04.wav",
+      "seconds": 1.08843537414966,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "1686fde46368401e654264346631e45442fdb7857eb469311235b69da7aa4ccc"
+    },
+    {
+      "file": "imp_grapple_mud_2ch_v1_01.wav",
+      "source": "imp_grapple_mud_2ch_v1_01.wav",
+      "seconds": 0.7836734693877551,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "476f70cd4bbbbbde63174ac8bce5dbe2d2ab9b062dd503b874e4e703801c8898"
+    },
+    {
+      "file": "imp_grapple_mud_2ch_v1_02.wav",
+      "source": "imp_grapple_mud_2ch_v1_02.wav",
+      "seconds": 0.7401360544217687,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "a37dbc0f7ff4dc25792ddcd74f1aba541a73436fd4833ff8604aa8bd73af2e2d"
+    },
+    {
+      "file": "imp_grapple_mud_2ch_v1_03.wav",
+      "source": "imp_grapple_mud_2ch_v1_03.wav",
+      "seconds": 0.5659863945578232,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "ef987c0c62b6352e2a802d04039cdde4ebea5f0ef5c269a9e2c9f9769319e477"
+    },
+    {
+      "file": "imp_grapple_mud_2ch_v1_04.wav",
+      "source": "imp_grapple_mud_2ch_v1_04.wav",
+      "seconds": 0.7401360544217687,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "fa0a5d7778bd87539848e63158c3837811ca8a3b6c7b9f540e6c7b9bb5a96b84"
+    },
+    {
+      "file": "imp_grapple_sand_2ch_v1_01.wav",
+      "source": "imp_grapple_sand_2ch_v1_01.wav",
+      "seconds": 0.8707482993197279,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "db8f2e669ab9baa7e2c0c4de3246651960d15333b2c2dfa159e9324b9ef32afd"
+    },
+    {
+      "file": "imp_grapple_sand_2ch_v1_02.wav",
+      "source": "imp_grapple_sand_2ch_v1_02.wav",
+      "seconds": 1.3061224489795917,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "942d4c9cd971c7c93c755556569ccd6987a22bb827e098f651f5b18167b90eb9"
+    },
+    {
+      "file": "imp_grapple_sand_2ch_v1_03.wav",
+      "source": "imp_grapple_sand_2ch_v1_03.wav",
+      "seconds": 1.1755102040816328,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "a76386d3e4b1dca9cdeac2760dd79c81dc73e519bcfda860d1c8176f60b06265"
+    },
+    {
+      "file": "imp_grapple_sand_2ch_v1_04.wav",
+      "source": "imp_grapple_sand_2ch_v1_04.wav",
+      "seconds": 0.9578231292517007,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "c334032f108903f6c4bfb85abd8a06dba9401cfa6ebee10feab0ba12e68623db"
+    },
+    {
+      "file": "imp_grapple_solidmetal_2ch_v1_01.wav",
+      "source": "imp_grapple_solidmetal_2ch_v1_01.wav",
+      "seconds": 1.0448979591836736,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "2bee1578ac568b383d718c90709fbc7bd81d00847c39efba5dd62f9397f149ef"
+    },
+    {
+      "file": "imp_grapple_solidmetal_2ch_v1_02.wav",
+      "source": "imp_grapple_solidmetal_2ch_v1_02.wav",
+      "seconds": 1.0448979591836736,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "2b1052a2efb83df2417b8452964f83a8aaac9227d460c897afee1ed1313fbf55"
+    },
+    {
+      "file": "imp_grapple_solidmetal_2ch_v1_03.wav",
+      "source": "imp_grapple_solidmetal_2ch_v1_03.wav",
+      "seconds": 0.9142857142857143,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "6fb7f443aeed4e63d5325d3c978945df9aba52aafb24f587fde96e23ee7de6e3"
+    },
+    {
+      "file": "imp_grapple_solidmetal_2ch_v1_04.wav",
+      "source": "imp_grapple_solidmetal_2ch_v1_04.wav",
+      "seconds": 0.9142857142857143,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "c80154c2805b088ca56606e92b72e911e555b1ae562f5616cae20b0489ab9cae"
+    },
+    {
+      "file": "imp_grapple_wood_2ch_v1_01.wav",
+      "source": "imp_grapple_wood_2ch_v1_01.wav",
+      "seconds": 0.5224489795918368,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "3514592aa705145526ba3193a79d702c7929c3ab2ec9fe2cc903bf3be0760c4c"
+    },
+    {
+      "file": "imp_grapple_wood_2ch_v1_02.wav",
+      "source": "imp_grapple_wood_2ch_v1_02.wav",
+      "seconds": 0.5659863945578232,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "8633a8880f483987080bc3c8126650fb1f7470df9bec038014be0dc6c40b5c6c"
+    },
+    {
+      "file": "imp_grapple_wood_2ch_v1_03.wav",
+      "source": "imp_grapple_wood_2ch_v1_03.wav",
+      "seconds": 0.7836734693877551,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "6e72d7c087e73b0849cef74d28b3380b5ef52b703a55ecef8f047dccfd28563a"
+    },
+    {
+      "file": "imp_grapple_wood_2ch_v1_05.wav",
+      "source": "imp_grapple_wood_2ch_v1_05.wav",
+      "seconds": 0.6095238095238096,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "f13161d6b5858f8873ae723b7812fa49f411fae2b5cb34125343c613339b12a8"
+    },
+    {
+      "file": "jumpjet_jetbody_st_v1_01.wav",
+      "source": "jumpjet_jetbody_st_v1_01.wav",
+      "seconds": 3.091156462585034,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "36534187b5c90b49c0419e8d93021f51ecb8d663910d1a92b7389bea3f90b252"
+    },
+    {
+      "file": "jumpjet_jetbody_st_v1_02.wav",
+      "source": "jumpjet_jetbody_st_v1_02.wav",
+      "seconds": 3.178231292517007,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "d3612b1217120626c6b4d5c0fadd9439efd2159480bf21200f93b0508b0c3627"
+    },
+    {
+      "file": "jumpjet_jetbody_st_v1_03.wav",
+      "source": "jumpjet_jetbody_st_v1_03.wav",
+      "seconds": 3.3959183673469386,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "9ca404a23d187930de4a16549307e3d86608f883f6f5411b9a282006d4072237"
+    },
+    {
+      "file": "jumpjet_jetbody_st_v1_04.wav",
+      "source": "jumpjet_jetbody_st_v1_04.wav",
+      "seconds": 3.613605442176871,
+      "rate": 44100,
+      "channels": 2,
+      "sha256": "373dce96d6c15830bfe70227dfbf940531f6bfe1130b20684226076236039c95"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_01.wav",
+      "seconds": 0.44,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "9ac12ea31a46d684bd64cca60ffd7533bbc0156339fbadf195d99d8033f53a24"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_02.wav",
+      "seconds": 0.44,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "8fe17be5560bceaf2e3534aa102a9817d79e26e7247179cef26ecaf0e1ec490d"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_03.wav",
+      "seconds": 0.36,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "dbc373eee96873216de8df3fcbaca8f723dff331ec353d0802d01c31f34c10b5"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_04.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_04.wav",
+      "seconds": 0.52,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "93860976379082eb9e773f5cd5665df8f9647662db3629a11177b6f791ce1c0b"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_05.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_05.wav",
+      "seconds": 0.44,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "72830ae7fcda960b5a0dcafc0b8fa9dffb9693a50b06ba77d1e5cad874d1ba67"
+    },
+    {
+      "file": "pilot_med_mvmt_slide_bump_2ch_v1_06.wav",
+      "source": "Pilot_Med_Mvmt_Slide_Bump_2ch_v1_06.wav",
+      "seconds": 0.36,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "c76e4ed107d3b0da7e6f96c539ffd9837de9f7c6c699b40c20a57821ce3c35b5"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_concrete_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_01.wav",
+      "seconds": 0.64,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "4f4100a285c920f337aba3e9b938285372f135ecca0ef549191fa033ff775dcf"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_concrete_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_02.wav",
+      "seconds": 0.96,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "073ecebec136b250149f1321d9970b913b3b95f60e9eb07aff85f4d754ae5b56"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_concrete_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Concrete_2ch_v1_03.wav",
+      "seconds": 1.32,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "3de332c9fdab90b54626daa75ca6fded0a14560bb54b158e8cf916bfa7ae5294"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_dirt_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_01.wav",
+      "seconds": 1.0,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "19291688128532d53b950d08a2957a0f764ac31e354b7b3f2da369d50e43b9dd"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_dirt_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_02.wav",
+      "seconds": 1.32,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "83edbcb294ea432c5478e294d06d14bf9dbc19e8d37c6230bbd11d7dff62f7ed"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_dirt_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Dirt_2ch_v1_03.wav",
+      "seconds": 0.88,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "694b05799d278636f0533f6e93b4ebeac49b2c9824014a0a735fcb15ce2433e5"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_grass_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_01.wav",
+      "seconds": 0.72,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "dc6cc25acc616c22c4e5277986801f884276d30301598f796317e9cf39c44bf2"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_grass_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_02.wav",
+      "seconds": 0.8,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "e4f8a3d5808e2ce5cd9da9bac5475420a8929140c6cfd4e91a8fca9b11575945"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_grass_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Grass_2ch_v1_03.wav",
+      "seconds": 0.76,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "b3632ce4cf397f9a27df00e52a5358be07b69a9743af6f278cfa51eda291730c"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_mud_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_01.wav",
+      "seconds": 0.76,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "7ec19c069b6990c624d7799d6362660fa0c895d88c40351e6adc66b166fe818c"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_mud_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_02.wav",
+      "seconds": 1.04,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "58c1856e398441d3dd8cafedb496a6b9e88a5ab7393bed44459b8fb08ce490cc"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_mud_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Mud_2ch_v1_03.wav",
+      "seconds": 0.92,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "959aad56c7f6666e7250237bc52c29393052d111134c820bdcf908da9771dd9b"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_sand_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_01.wav",
+      "seconds": 0.76,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "58e26d8752daeb9286d78969b42eb9172d39a3c8bdf207da0251a17f6fe9ab15"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_sand_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_02.wav",
+      "seconds": 1.08,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "31c9d44e626ad96118e254e39fb4d4644b07b66de9e66a0ae6d77584b791f624"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_sand_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Sand_2ch_v1_03.wav",
+      "seconds": 1.12,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "8cb4385363412a87a4363ad9a52b323d67ef9b5fa003525cae3e8c60f9ab4d82"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_solidmetal_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_01.wav",
+      "seconds": 0.68,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "d72d1cd16d71f304792338ffdecc046ffedf027d509605fcf68885188bad4ec1"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_solidmetal_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_02.wav",
+      "seconds": 0.48,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "c4851101fedb4b742bfaf9561b5de33afd6716b0cf002eeed49783f794ea5aca"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_solidmetal_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_SolidMetal_2ch_v1_03.wav",
+      "seconds": 0.64,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "570cfa194def395c880deaf28c5388650ce8b715c82fd40ab0603b4d574c1ed7"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_water_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_01.wav",
+      "seconds": 0.88,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "55e7d035d417c36ed763610b4a728faa64643a19502478cd3b5942bc990e329d"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_water_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_02.wav",
+      "seconds": 1.28,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "066a3155f007f130e8697aa9ca9a2ebc6add1916b047017b8d897803b33170e5"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_water_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Water_2ch_v1_03.wav",
+      "seconds": 0.96,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "708cdf662523078343ba85b2edc4f50e13eb989335565760826cbac1223de627"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_wood_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_01.wav",
+      "seconds": 0.6,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "aa243951c72c1b04032bbcbde9b151247c37212d1bf3d91d9b48bc88b28e1dbf"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_wood_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_02.wav",
+      "seconds": 0.48,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "4be8cd1276013d46b6041dff149e0a79b7c5e30851063e647f7d0f5b56c3d861"
+    },
+    {
+      "file": "pilot_med_mvmt_slideend_wood_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideEnd_Wood_2ch_v1_03.wav",
+      "seconds": 0.56,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "6654c818a2936aabbd9100b62f18e775a31f69bd55e5047ae24851ddcf69cf21"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_concrete_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_01.wav",
+      "seconds": 2.56,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "a6e48e38ae533daa501288be5f812f80b1662a3b9eed1172161cc47c4ee933ed"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_concrete_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_02.wav",
+      "seconds": 2.72,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "ad598f6f56d8352562cacf7d165406c2c4ff0667d4041a9b70fee4bc253b4c8b"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_concrete_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Concrete_2ch_v1_03.wav",
+      "seconds": 2.2,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "155a2b7d1e218a8948f1d811b84b49f09ecf02ce3375ff850431bdd6612ae88a"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_dirt_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_01.wav",
+      "seconds": 2.96,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "efeee425d0deb58b34da2ebcb2be4b6ef389eae99c59d81cf3b50c49f0301db6"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_dirt_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_02.wav",
+      "seconds": 2.36,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "3f131e484d7a971ecdfd7020ae6b22180da6dd5b5d17b51f86a06af082495c7a"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_dirt_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Dirt_2ch_v1_03.wav",
+      "seconds": 2.6,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "0a31e010b406000c2fcd9693af03a5eef4055c0fdc4c2d483bca0ad0a2929bb6"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_grass_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_01.wav",
+      "seconds": 2.56,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "79da70173bc05fc9f76f9f6e8b4cd52248be8f6e113be679fd74a87c5284b5db"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_grass_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_02.wav",
+      "seconds": 2.68,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "fa8f47c11d99b018ec17a52c13904b86eea4da26c7c35e85ed2934a5690cad8b"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_grass_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Grass_2ch_v1_03.wav",
+      "seconds": 2.92,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "ce59d44e2bca8baead4946e36f14669b3e78dfa6ca8294d0530fc2d839cfa6a1"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_mud_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_01.wav",
+      "seconds": 2.92,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "f82c11b8a4e48976c091cb7d90a239ce910cfa81fb33fb91e0311606b9cdafe6"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_mud_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_02.wav",
+      "seconds": 3.08,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "0885ea86c33a0f046b8d86fae8b165e2a09b70cccc5912354923fe172d74a456"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_mud_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Mud_2ch_v1_03.wav",
+      "seconds": 2.92,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "ead47fcbe6a63144f36c8893c99349ab117d5c218d6673960cc8c027c3a58dc1"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_sand_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_01.wav",
+      "seconds": 2.6,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "eb24c9dd8bef53fc064518085974f342d49a8fbd4030442985ffebc28b734f73"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_sand_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_02.wav",
+      "seconds": 2.36,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "778b92409e1978cfbbbbf738f40df014875e7f442f640f41fcb9148abb5a5d65"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_sand_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Sand_2ch_v1_03.wav",
+      "seconds": 2.32,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "ea85731eeb182251d8189a84805fef4dd9aebc6d33ea6df1890d8c9e1f9bfd52"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_solidmetal_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_01.wav",
+      "seconds": 2.0,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "0e108c7c81bc847d0638c878f1b1b10ce9928fe2019731fed62254126d15cdad"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_solidmetal_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_02.wav",
+      "seconds": 2.4,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "d09e687a811689494486da558d844d124807e5e5ce7a05e338220d2a709c8509"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_solidmetal_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_SolidMetal_2ch_v1_03.wav",
+      "seconds": 2.28,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "87d7f44a0535a8fd18aa969af3f306ada59982efbfa559dcd48ae435a2ee31b3"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_water_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_01.wav",
+      "seconds": 2.92,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "81ff971fc0e99b73ec250ed8c357371a0d6dbd44cbed076d3a5cd694dd9b1830"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_water_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_02.wav",
+      "seconds": 3.0,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "d2a5862f17011d9efcb40581c5d2d9fe667fb3c659376a8740b30679a96f44d1"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_water_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Water_2ch_v1_03.wav",
+      "seconds": 2.6,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "1f100ec3fa2b47d940f322156b9838b73a15ed778ea84fa95050d80f7f4786a3"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_wood_2ch_v1_01.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_01.wav",
+      "seconds": 2.36,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "f88ba621db1e7c136e5e5348e85acc46c3b76448f73a2b6f8addfa76872ab468"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_wood_2ch_v1_02.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_02.wav",
+      "seconds": 2.12,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "2f42cf88ab08809c97adc1370b8aa32328f6e76df085054ae90a269ea4b29926"
+    },
+    {
+      "file": "pilot_med_mvmt_slidestart_wood_2ch_v1_03.wav",
+      "source": "Pilot_Med_Mvmt_SlideStart_Wood_2ch_v1_03.wav",
+      "seconds": 2.12,
+      "rate": 48000,
+      "channels": 2,
+      "sha256": "49ba662b80fb3abed1e6d90c9859a050e777341962ac1a4f0c6a571670b0ba4a"
+    }
+  ],
+  "source_bank_sha256": "b5c3a149f728172dd9860472dd1030757b88d3dab1b530480019566b0988220e"
+}

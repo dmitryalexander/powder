@@ -1,0 +1,22 @@
+Powder 0.23.0-preview
+
+Requires Titanfall 1 and R1Delta; neither is included.
+Titanfall names, game interfaces, referenced models/materials, and the Stim weapon
+configuration format belong to their respective rights holders. The small Stim
+configuration is adapted from the installed Titanfall 1 definition with its base
+duration changed. This package does not grant rights to the game or its assets.
+
+Cable texture: generated procedurally for this release by build-public-mod.py;
+no extracted Titanfall 2 texture pixels are included. Other VMT files are simple
+material declarations referring to this original texture or installed game assets.
+
+No third-party native binaries, complete game archives or game executables are
+included. Source scripts are supplied for inspection. An explicit general-purpose
+license for original project code has not yet been selected by the project owner;
+this notice is not a blanket license grant for game content.
+
+Audio: selected original Titanfall 2 grapple and pilot slide recordings extracted
+from the owner's installed game with LegionPlus 1.9.2 and converted to PCM WAV.
+These recordings remain Respawn/EA game content, not original project recordings.
+The local package is not a license grant to redistribute those recordings.
+No LegionPlus, Miles, Bink or game DLL is distributed with this mod.

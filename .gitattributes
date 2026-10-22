@@ -1,0 +1,4 @@
+# Keep checksum-verified payload bytes identical on Windows/Linux.
+* -text
+*.wav binary
+*.vtf binary

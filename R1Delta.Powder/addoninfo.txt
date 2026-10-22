@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "addonSteamAppID" "1454890"
+    "addontitle" "Powder"
+    "addonversion" "0.23.0-preview"
+    "addonauthor" "Pilot Movement contributors"
+    "addondescription" "Private-match slide/grapple, smooth nearby AI, enemy reticle and enhanced Stim. Keybinds are opt-in."
+}

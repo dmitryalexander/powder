@@ -1,0 +1,601 @@
+"R1PM.grapple.fire"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "1.0"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/grapple_fire_2ch_v1_01.wav"
+  "wave" "r1pm/r2/grapple_fire_2ch_v1_02.wav"
+  "wave" "r1pm/r2/grapple_fire_2ch_v1_03.wav"
+  "wave" "r1pm/r2/grapple_fire_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.traverse"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.7"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/grapple_traverse_2ch_v1_01.wav"
+  "wave" "r1pm/r2/grapple_traverse_2ch_v1_02.wav"
+  "wave" "r1pm/r2/grapple_traverse_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.grapple.retract"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.8"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/grapple_retract_2ch_v1_01.wav"
+  "wave" "r1pm/r2/grapple_retract_2ch_v1_02.wav"
+ }
+}
+
+"R1PM.grapple.reset"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "1.0"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/grapple_reset_2ch_v1_01.wav"
+ }
+}
+
+"R1PM.slide.boost"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "1.0"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/jumpjet_jetbody_st_v1_01.wav"
+  "wave" "r1pm/r2/jumpjet_jetbody_st_v1_02.wav"
+  "wave" "r1pm/r2/jumpjet_jetbody_st_v1_03.wav"
+  "wave" "r1pm/r2/jumpjet_jetbody_st_v1_04.wav"
+ }
+}
+
+"R1PM.slide.start.concrete"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_concrete_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_concrete_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_concrete_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.concrete"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_concrete_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_concrete_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_concrete_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.concrete"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.dirt"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_dirt_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_dirt_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_dirt_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.dirt"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_dirt_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_dirt_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_dirt_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.dirt"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.grass"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_grass_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_grass_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_grass_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.grass"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_grass_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_grass_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_grass_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.grass"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.mud"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_mud_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_mud_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_mud_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.mud"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_mud_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_mud_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_mud_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.mud"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.sand"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_sand_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_sand_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_sand_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.sand"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_sand_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_sand_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_sand_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.sand"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.solidmetal"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_solidmetal_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_solidmetal_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_solidmetal_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.solidmetal"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_solidmetal_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_solidmetal_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_solidmetal_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.solidmetal"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.water"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_water_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_water_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_water_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.water"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_water_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_water_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_water_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.water"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.slide.start.wood"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "flags" "loop"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_wood_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_wood_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slidestart_wood_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.stop.wood"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_wood_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_wood_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slideend_wood_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.slide.bump.wood"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_01.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_02.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_03.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_04.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_05.wav"
+  "wave" "r1pm/r2/pilot_med_mvmt_slide_bump_2ch_v1_06.wav"
+ }
+}
+
+"R1PM.grapple.impact.default"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_default_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_default_2ch_v1_02.wav"
+ }
+}
+
+"R1PM.grapple.extract.default"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_default_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_default_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_default_2ch_v1_03.wav"
+ }
+}
+
+"R1PM.grapple.impact.concrete"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_concrete_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_concrete_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_concrete_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_concrete_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.extract.concrete"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_concrete_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_concrete_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_concrete_2ch_v1_03.wav"
+  "wave" "r1pm/r2/extract_grapple_concrete_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.impact.dirt"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_dirt_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_dirt_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_dirt_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_dirt_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.extract.dirt"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_dirt_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_dirt_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_dirt_2ch_v1_03.wav"
+  "wave" "r1pm/r2/extract_grapple_dirt_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.impact.mud"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_mud_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_mud_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_mud_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_mud_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.extract.mud"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_mud_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_mud_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_mud_2ch_v1_03.wav"
+  "wave" "r1pm/r2/extract_grapple_mud_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.impact.sand"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_sand_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_sand_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_sand_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_sand_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.extract.sand"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_sand_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_sand_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_sand_2ch_v1_03.wav"
+  "wave" "r1pm/r2/extract_grapple_sand_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.impact.solidmetal"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_solidmetal_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_solidmetal_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_solidmetal_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_solidmetal_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.extract.solidmetal"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_solidmetal_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_solidmetal_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_solidmetal_2ch_v1_03.wav"
+  "wave" "r1pm/r2/extract_grapple_solidmetal_2ch_v1_04.wav"
+ }
+}
+
+"R1PM.grapple.impact.wood"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.75"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/imp_grapple_wood_2ch_v1_01.wav"
+  "wave" "r1pm/r2/imp_grapple_wood_2ch_v1_02.wav"
+  "wave" "r1pm/r2/imp_grapple_wood_2ch_v1_03.wav"
+  "wave" "r1pm/r2/imp_grapple_wood_2ch_v1_05.wav"
+ }
+}
+
+"R1PM.grapple.extract.wood"
+{
+ "mixgroup" "player,SFX,SFX_Player,SFX_Player_Pilot"
+ "radius" "1000"
+ "volume" "0.65"
+ "rndwave"
+ {
+  "wave" "r1pm/r2/extract_grapple_wood_2ch_v1_01.wav"
+  "wave" "r1pm/r2/extract_grapple_wood_2ch_v1_02.wav"
+  "wave" "r1pm/r2/extract_grapple_wood_2ch_v1_03.wav"
+ }
+}

@@ -1,0 +1,9 @@
+"Basic"
+{
+    "$basetexture" "cable/r1pm_grapple_black"
+    "$translucent" "1"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$ignorez" "0"
+    "$nocull" "1"
+}

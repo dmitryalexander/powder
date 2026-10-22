@@ -1,0 +1,13 @@
+{
+  "event": "jumpjet_slide_start_1p",
+  "bank_sha256": "b5c3a149f728172dd9860472dd1030757b88d3dab1b530480019566b0988220e",
+  "event_record": "0x15d8078",
+  "choice_node": "0x2f4f068",
+  "sources": [
+    "jumpjet_jetbody_st_v1_01",
+    "jumpjet_jetbody_st_v1_02",
+    "jumpjet_jetbody_st_v1_03",
+    "jumpjet_jetbody_st_v1_04"
+  ],
+  "limitation": "Source-choice mapping verified; native envelopes, mixer and prediction are not ported."
+}
